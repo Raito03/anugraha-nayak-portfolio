@@ -33,7 +33,7 @@ const Experience = () => {
                 <p className="text-sm font-semibold text-gray-500 dark:text-gray-400">Key Technologies:</p>
                 <p className="text-sm text-gray-600 dark:text-gray-300">Python, Selenium, Beautiful Soup, FastAPI, React Native, Pandas, NumPy, Expo, Github Codespace</p>
               </div>
-              <a href="#" className="text-portfolio-highlight hover:underline flex items-center text-sm mt-2">
+              <a href="https://drive.google.com/file/d/18cKvaT73tN0bRejHVxIaem_7vVqisrWp/view" className="text-portfolio-highlight hover:underline flex items-center text-sm mt-2">
                 <span>Link</span>
                 <ExternalLink size={14} className="ml-1" />
               </a>
@@ -65,7 +65,7 @@ const Experience = () => {
                 <p className="text-sm font-semibold text-gray-500 dark:text-gray-400">Key Technologies:</p>
                 <p className="text-sm text-gray-600 dark:text-gray-300">Python, Pandas, NumPy, Scikit-learn, TfidfVectorizer</p>
               </div>
-              <a href="#" className="text-portfolio-highlight hover:underline flex items-center text-sm mt-2">
+              <a href="https://drive.google.com/file/d/1iuVSrpJGR8gIFJ8L0BEW2fM5BC8WfXnA/view" className="text-portfolio-highlight hover:underline flex items-center text-sm mt-2">
                 <span>Link</span>
                 <ExternalLink size={14} className="ml-1" />
               </a>
@@ -97,7 +97,7 @@ const Experience = () => {
                 <p className="text-sm font-semibold text-gray-500 dark:text-gray-400">Key Technologies:</p>
                 <p className="text-sm text-gray-600 dark:text-gray-300">AWS CLI, EC2 instance, S3 bucket, Elastic IP, VPC</p>
               </div>
-              <a href="#" className="text-portfolio-highlight hover:underline flex items-center text-sm mt-2">
+              <a href="https://drive.google.com/file/d/1o9ZBdMRkyzT9c3BdQ54V_F5-blz-RT_X/view" className="text-portfolio-highlight hover:underline flex items-center text-sm mt-2">
                 <span>Link</span>
                 <ExternalLink size={14} className="ml-1" />
               </a>

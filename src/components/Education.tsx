@@ -18,7 +18,7 @@ const Education = () => {
               <p className="font-medium">Sept 2021 - Present</p>
               <p className="text-gray-600 dark:text-gray-300 flex items-center justify-end gap-1">
                 CGPA: 9.35/10.0
-                <a href="#" className="text-portfolio-highlight hover:underline inline-flex items-center">
+                <a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:392ddd15-cfb6-4f9b-a149-db2e1b59f660https://acrobat.adobe.com/id/urn:aaid:sc:AP:392ddd15-cfb6-4f9b-a149-db2e1b59f660https://acrobat.adobe.com/id/urn:aaid:sc:AP:392ddd15-cfb6-4f9b-a149-db2e1b59f660https://acrobat.adobe.com/id/urn:aaid:sc:AP:392ddd15-cfb6-4f9b-a149-db2e1b59f660" className="text-portfolio-highlight hover:underline inline-flex items-center">
                   <span>Link</span>
                   <ExternalLink size={14} className="ml-1" />
                 </a>
@@ -37,7 +37,7 @@ const Education = () => {
               <p className="font-medium">Apr 2019 - May 2021</p>
               <p className="text-gray-600 dark:text-gray-300 flex items-center justify-end gap-1">
                 Class 12th - 93%
-                <a href="#" className="text-portfolio-highlight hover:underline inline-flex items-center">
+                <a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:a9fd9035-f5d4-40e7-b7e4-6490f2a706f7" className="text-portfolio-highlight hover:underline inline-flex items-center">
                   <span>Link</span>
                   <ExternalLink size={14} className="ml-1" />
                 </a>
@@ -56,7 +56,7 @@ const Education = () => {
               <p className="font-medium">Apr 2018 - May 2019</p>
               <p className="text-gray-600 dark:text-gray-300 flex items-center justify-end gap-1">
                 Class 10th - 91%
-                <a href="#" className="text-portfolio-highlight hover:underline inline-flex items-center">
+                <a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:598b137b-6ab3-474d-8d5f-a6cedacee3bb" className="text-portfolio-highlight hover:underline inline-flex items-center">
                   <span>Link</span>
                   <ExternalLink size={14} className="ml-1" />
                 </a>
