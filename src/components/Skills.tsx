@@ -41,7 +41,7 @@ const Skills = () => {
             </div>
             <ul className="space-y-2 text-gray-700 dark:text-gray-300">
               <li>Programming Languages: C, Java, Python, JavaScript, HTML, SQL</li>
-              <li>React (Native), FastAPI, AWS, Docker</li>
+              <li>Software Development, Web Development, React, NextJs, FastAPI, Flask, AWS, Docker, Git</li>
               <li>Github Codespace, Expo</li>
             </ul>
           </div>
