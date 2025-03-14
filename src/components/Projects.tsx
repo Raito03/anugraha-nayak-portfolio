@@ -88,7 +88,7 @@ const Projects = () => {
                   <span className="text-xs bg-gray-200 dark:bg-gray-700 px-2 py-1 rounded">Scikit-learn</span>
                   <span className="text-xs bg-gray-200 dark:bg-gray-700 px-2 py-1 rounded">XGBoost</span>
                 </div>
-                <a href="https://github.com/Raito03/just-a-f1-race-prediction" className="text-portfolio-highlight text-sm hover:underline inline-flex items-center">
+                <a href="https://just-a-f1-race-prediction.vercel.app/" className="text-portfolio-highlight text-sm hover:underline inline-flex items-center">
                   Link
                   <ExternalLink size={14} className="ml-1" />
                 </a>
